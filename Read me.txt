@@ -1,0 +1,2 @@
+This project is for do the selenium testing for fault report web application.
+Required : selenium-java-2.35.0 libraries
